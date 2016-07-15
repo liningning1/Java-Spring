@@ -1,0 +1,15 @@
+package com.baiju.spcore;
+
+public class CoreDemo {
+
+	public static void main(String[] args) {
+		// Without Soring
+		
+		Employee employee = new Employee();
+		Address address = new Address();
+		address.setCity("Woodstock, MD");	
+		employee.setAddress(address);
+
+	}
+
+}

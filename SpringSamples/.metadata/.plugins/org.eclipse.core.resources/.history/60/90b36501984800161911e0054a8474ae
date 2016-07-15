@@ -1,0 +1,14 @@
+package com.baiju.spcore;
+
+public class CoreDemo {
+
+	public static void main(String[] args) {
+//		// Without Spring
+//		Employee employee = new Employee();
+//		Address address = new Address();
+//		address.setLocation("Woodstock, MD");	
+//		employee.setAddress(address);
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.baiju.spcore;
+
+public class Address {
+	
+	private String city;
+
+	public void setCity(String city) {
+		this.city = city;
+	}
+	
+	public String toString() {
+		return("City:  " + this.city);
+		
+	}
+	
+}
